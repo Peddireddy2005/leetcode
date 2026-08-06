@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Peddireddy2005/leetcode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
