@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Peddireddy2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Peddireddy2005/leetcode/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Peddireddy2005/leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
