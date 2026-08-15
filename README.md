@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Peddireddy2005/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peddireddy2005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Peddireddy2005/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Peddireddy2005/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Peddireddy2005/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
