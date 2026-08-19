@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Peddireddy2005/leetcode/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Peddireddy2005/leetcode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Peddireddy2005/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Peddireddy2005/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Peddireddy2005/leetcode/tree/master/0994-rotting-oranges) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Peddireddy2005/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Peddireddy2005/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
