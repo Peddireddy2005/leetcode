@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Peddireddy2005/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Peddireddy2005/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peddireddy2005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Peddireddy2005/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Peddireddy2005/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Peddireddy2005/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Peddireddy2005/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
