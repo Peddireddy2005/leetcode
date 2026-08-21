@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Peddireddy2005/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Peddireddy2005/leetcode/tree/master/0012-integer-to-roman) |
+| [0127-word-ladder](https://github.com/Peddireddy2005/leetcode/tree/master/0127-word-ladder) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Peddireddy2005/leetcode/tree/master/0012-integer-to-roman) |
+| [0127-word-ladder](https://github.com/Peddireddy2005/leetcode/tree/master/0127-word-ladder) |
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Peddireddy2005/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peddireddy2005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Peddireddy2005/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Peddireddy2005/leetcode/tree/master/0542-01-matrix) |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Peddireddy2005/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Peddireddy2005/leetcode/tree/master/1020-number-of-enclaves) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Peddireddy2005/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
