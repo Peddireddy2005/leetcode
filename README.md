@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Peddireddy2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Peddireddy2005/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Peddireddy2005/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Peddireddy2005/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Peddireddy2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Peddireddy2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
