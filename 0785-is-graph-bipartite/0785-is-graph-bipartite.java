@@ -1,15 +1,8 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-
         int n = graph.length;
-
-        // -1 = not colored
-        //  0 = color 0
-        //  1 = color 1
         int[] color = new int[n];
-
         Arrays.fill(color, -1);
-
         for (int i = 0; i < n; i++){
             if (color[i] != -1){
                 continue;
