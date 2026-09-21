@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Peddireddy2005/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Peddireddy2005/leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Peddireddy2005/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Peddireddy2005/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Peddireddy2005/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peddireddy2005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Peddireddy2005/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
