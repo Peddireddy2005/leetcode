@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Peddireddy2005/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Peddireddy2005/leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Peddireddy2005/leetcode/tree/master/0127-word-ladder) |
+| [1768-merge-strings-alternately](https://github.com/Peddireddy2005/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/Peddireddy2005/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Peddireddy2005/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Peddireddy2005/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
