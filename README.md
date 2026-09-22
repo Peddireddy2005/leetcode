@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Peddireddy2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Peddireddy2005/leetcode/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/Peddireddy2005/leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Peddireddy2005/leetcode/tree/master/0994-rotting-oranges) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Peddireddy2005/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Peddireddy2005/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Peddireddy2005/leetcode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
