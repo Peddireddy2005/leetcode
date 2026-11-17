@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Peddireddy2005/leetcode/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Peddireddy2005/leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Peddireddy2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Peddireddy2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Peddireddy2005/leetcode/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/Peddireddy2005/leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Peddireddy2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Peddireddy2005/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -275,4 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Peddireddy2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
