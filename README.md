@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Peddireddy2005/leetcode/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Peddireddy2005/leetcode/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Peddireddy2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0229-majority-element-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Peddireddy2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Peddireddy2005/leetcode/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/Peddireddy2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Peddireddy2005/leetcode/tree/master/0542-01-matrix) |
 ## Sorting
