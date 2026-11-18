@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Peddireddy2005/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Peddireddy2005/leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Peddireddy2005/leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Peddireddy2005/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Peddireddy2005/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Peddireddy2005/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Peddireddy2005/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Peddireddy2005/leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Peddireddy2005/leetcode/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Peddireddy2005/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Peddireddy2005/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0229-majority-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Peddireddy2005/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
