@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Peddireddy2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Peddireddy2005/leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Peddireddy2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Peddireddy2005/leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Peddireddy2005/leetcode/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Peddireddy2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Peddireddy2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Peddireddy2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Peddireddy2005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Peddireddy2005/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Peddireddy2005/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Peddireddy2005/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Peddireddy2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Peddireddy2005/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Peddireddy2005/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Peddireddy2005/leetcode/tree/master/3903-smallest-stable-index-i) |
