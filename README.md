@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Peddireddy2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Peddireddy2005/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Peddireddy2005/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Peddireddy2005/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Peddireddy2005/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Peddireddy2005/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Peddireddy2005/leetcode/tree/master/0200-number-of-islands) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Peddireddy2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Peddireddy2005/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Peddireddy2005/leetcode/tree/master/0162-find-peak-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Peddireddy2005/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
